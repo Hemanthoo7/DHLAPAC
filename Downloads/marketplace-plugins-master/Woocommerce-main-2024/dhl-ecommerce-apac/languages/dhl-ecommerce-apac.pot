@@ -1,0 +1,529 @@
+# Copyright (C) 2023 Hyperlink Infosystem
+# This file is distributed under the same license as the DHL Ecommerce APAC plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: DHL Ecommerce APAC 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/dhl-ecommerce-apac\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2023-03-13T18:09:26+05:30\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.7.1\n"
+"X-Domain: dhl-ecommerce-apac\n"
+
+#. Plugin Name of the plugin
+msgid "DHL Ecommerce APAC"
+msgstr ""
+
+#. Plugin URI of the plugin
+msgid "#"
+msgstr ""
+
+#. Description of the plugin
+msgid "Hyperlink Infosystem integration for DHL eCommerce Malaysia"
+msgstr ""
+
+#. Author of the plugin
+msgid "Hyperlink Infosystem"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.hyperlinkinfosystem.com/"
+msgstr ""
+
+#: includes/class-dhl-apac.php:85
+msgid "WooCommerce DHL Integration requires WooCommerce to be installed and activated!"
+msgstr ""
+
+#: includes/class-dhl-apac.php:249
+msgid "DHLeCS"
+msgstr ""
+
+#: includes/class-dhl-apac.php:300
+msgid "Configuration Settings"
+msgstr ""
+
+#: includes/class-dhl-apac.php:313
+msgid "Enable DHL Shipping Label"
+msgstr ""
+
+#: includes/class-dhl-apac.php:315
+msgid "Yes"
+msgstr ""
+
+#: includes/class-dhl-apac.php:316
+msgid "No"
+msgstr ""
+
+#: includes/class-dhl-apac.php:323
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:563
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:701
+msgid "Country"
+msgstr ""
+
+#: includes/class-dhl-apac.php:325
+#: includes/class-dhl-apac.php:355
+#: includes/class-dhl-apac.php:410
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:212
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:255
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:469
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:565
+msgid "Please select"
+msgstr ""
+
+#: includes/class-dhl-apac.php:326
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:566
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:703
+msgid "Malaysia"
+msgstr ""
+
+#: includes/class-dhl-apac.php:327
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:567
+msgid "Thailand"
+msgstr ""
+
+#: includes/class-dhl-apac.php:334
+msgid "Account Type"
+msgstr ""
+
+#: includes/class-dhl-apac.php:341
+msgid "Soldto Account"
+msgstr ""
+
+#: includes/class-dhl-apac.php:343
+msgid "* Only digits allowed"
+msgstr ""
+
+#: includes/class-dhl-apac.php:350
+#: includes/classes/class-dhl-apac-custom-post-custom-field.php:160
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:210
+msgid "Pickup Account"
+msgstr ""
+
+#: includes/class-dhl-apac.php:352
+msgid "Add pickup account"
+msgstr ""
+
+#: includes/class-dhl-apac.php:408
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:245
+msgid "Product Code"
+msgstr ""
+
+#: includes/class-dhl-apac.php:411
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:256
+msgid "Parcel Domestic"
+msgstr ""
+
+#: includes/class-dhl-apac.php:412
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:257
+msgid "DHL Parcel Return"
+msgstr ""
+
+#: includes/class-dhl-apac.php:413
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:258
+msgid "Parcel Domestic Expedited"
+msgstr ""
+
+#: includes/class-dhl-apac.php:414
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:259
+msgid "Document Domestic"
+msgstr ""
+
+#: includes/class-dhl-apac.php:415
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:260
+msgid "DHL Parcel Metro"
+msgstr ""
+
+#: includes/class-dhl-apac.php:422
+msgid "Prefix"
+msgstr ""
+
+#: includes/class-dhl-apac.php:429
+msgid "Client Id"
+msgstr ""
+
+#: includes/class-dhl-apac.php:436
+msgid "Client Secret/Password"
+msgstr ""
+
+#: includes/class-dhl-apac.php:443
+#: includes/class-dhl-apac.php:446
+msgid "Test Connection"
+msgstr ""
+
+#: includes/class-dhl-apac.php:458
+msgid "Status"
+msgstr ""
+
+#: includes/class-dhl-apac.php:472
+msgid "Optional Settings"
+msgstr ""
+
+#: includes/class-dhl-apac.php:476
+msgid "Label Template"
+msgstr ""
+
+#: includes/class-dhl-apac.php:478
+msgid "1x1"
+msgstr ""
+
+#: includes/class-dhl-apac.php:479
+msgid "4x1"
+msgstr ""
+
+#: includes/class-dhl-apac.php:485
+msgid "Label Format"
+msgstr ""
+
+#: includes/class-dhl-apac.php:487
+msgid "PDF"
+msgstr ""
+
+#: includes/class-dhl-apac.php:488
+msgid "PNG"
+msgstr ""
+
+#: includes/class-dhl-apac.php:678
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:499
+msgid "Company Name"
+msgstr ""
+
+#: includes/class-dhl-apac.php:719
+msgid "If you want to create the label, adding a mandatory shipping address is required!"
+msgstr ""
+
+#: includes/classes/class-dhl-apac-custom-post-custom-field.php:48
+msgid "Pickup Account Information"
+msgstr ""
+
+#: includes/classes/class-dhl-apac-custom-post-custom-field.php:169
+msgid "Pickup Account Name"
+msgstr ""
+
+#: includes/classes/class-dhl-apac-custom-post-custom-field.php:178
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:515
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:653
+msgid "Address Line 1"
+msgstr ""
+
+#: includes/classes/class-dhl-apac-custom-post-custom-field.php:187
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:523
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:661
+msgid "Address Line 2"
+msgstr ""
+
+#: includes/classes/class-dhl-apac-custom-post-custom-field.php:195
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:531
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:669
+msgid "Address Line 3"
+msgstr ""
+
+#: includes/classes/class-dhl-apac-custom-post-custom-field.php:203
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:539
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:677
+msgid "City"
+msgstr ""
+
+#: includes/classes/class-dhl-apac-custom-post-custom-field.php:212
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:547
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:685
+msgid "State"
+msgstr ""
+
+#: includes/classes/class-dhl-apac-custom-post-custom-field.php:220
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:555
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:693
+msgid "District"
+msgstr ""
+
+#: includes/classes/class-dhl-apac-custom-post-custom-field.php:228
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:575
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:711
+msgid "Postcode"
+msgstr ""
+
+#: includes/classes/class-dhl-apac-custom-post-custom-field.php:237
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:583
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:719
+msgid "Phone"
+msgstr ""
+
+#: includes/classes/class-dhl-apac-custom-post-custom-field.php:246
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:591
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:727
+msgid "Email"
+msgstr ""
+
+#: includes/classes/class-dhl-apac-custom-post-custom-field.php:255
+msgid "Set as Default"
+msgstr ""
+
+#: includes/classes/class-dhl-apac-custom-post-types.php:45
+msgctxt "Post type general name"
+msgid "Pickup Account Information"
+msgstr ""
+
+#: includes/classes/class-dhl-apac-custom-post-types.php:46
+msgctxt "Post type singular name"
+msgid "Pickup Account Information"
+msgstr ""
+
+#: includes/classes/class-dhl-apac-custom-post-types.php:47
+msgctxt "Admin Menu text"
+msgid "Manage Pickup Account"
+msgstr ""
+
+#: includes/classes/class-dhl-apac-custom-post-types.php:48
+msgctxt "Add New on Toolbar"
+msgid "Pickup Account Information"
+msgstr ""
+
+#: includes/classes/class-dhl-apac-custom-post-types.php:49
+msgid "Add New"
+msgstr ""
+
+#: includes/classes/class-dhl-apac-custom-post-types.php:50
+msgid "Add Pickup Account Information"
+msgstr ""
+
+#: includes/classes/class-dhl-apac-custom-post-types.php:51
+msgid "New Pickup Account"
+msgstr ""
+
+#: includes/classes/class-dhl-apac-custom-post-types.php:52
+msgid "Edit Pickup Account"
+msgstr ""
+
+#: includes/classes/class-dhl-apac-custom-post-types.php:53
+msgid "View pickup account"
+msgstr ""
+
+#: includes/classes/class-dhl-apac-custom-post-types.php:54
+msgid "Manage Pickup Account"
+msgstr ""
+
+#: includes/classes/class-dhl-apac-custom-post-types.php:55
+msgid "Search Pickup Account"
+msgstr ""
+
+#: includes/classes/class-dhl-apac-custom-post-types.php:56
+msgid "Parent Pickup Account:"
+msgstr ""
+
+#: includes/classes/class-dhl-apac-custom-post-types.php:57
+msgid "No Pickup Account Information Found."
+msgstr ""
+
+#: includes/classes/class-dhl-apac-custom-post-types.php:58
+msgid "No Pickup Account Found In Trash."
+msgstr ""
+
+#: includes/inc/dhl-apac-extra-function.php:498
+msgid "Order #"
+msgstr ""
+
+#: includes/multipleShippingLabel/class-dhl-apac-multipleshippinglabel.php:43
+msgid "DHLeCS Shipping Bulk Label"
+msgstr ""
+
+#: includes/multipleShippingLabel/class-dhl-apac-multipleshippinglabel.php:44
+msgid "DHLeCS Shipping Bulk Label Print"
+msgstr ""
+
+#: includes/multipleShippingLabel/class-dhl-apac-multipleshippinglabel.php:159
+msgid "DHLeCS Weight"
+msgstr ""
+
+#: includes/multipleShippingLabel/class-dhl-apac-multipleshippinglabel.php:160
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:43
+msgid "DHLeCS Shipping Label"
+msgstr ""
+
+#: includes/multipleShippingLabel/class-dhl-apac-multipleshippinglabel.php:161
+msgid "DHLeCS Tracking"
+msgstr ""
+
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:192
+msgid "Create shipping label"
+msgstr ""
+
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:201
+msgid "Check this checkbox if you want to create lable (required)"
+msgstr ""
+
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:237
+msgid "Shipment ID"
+msgstr ""
+
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:273
+msgid "Value Added Services"
+msgstr ""
+
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:278
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:376
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:388
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:401
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:411
+msgid "Cash on Delivery"
+msgstr ""
+
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:294
+msgid "Shipment Value Protection"
+msgstr ""
+
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:310
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:313
+msgid "Paper Proof of Delivery (PPOD)"
+msgstr ""
+
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:320
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:323
+msgid "Open Box"
+msgstr ""
+
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:330
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:333
+msgid "Multi Pieces Shipment"
+msgstr ""
+
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:340
+msgid "Consignee Address"
+msgstr ""
+
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:353
+msgid "Delivery Option"
+msgstr ""
+
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:358
+msgid "Complete Delivery"
+msgstr ""
+
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:361
+msgid "Partial Delivery"
+msgstr ""
+
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:371
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:383
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:396
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:406
+msgid "Piece Description"
+msgstr ""
+
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:372
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:384
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:397
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:407
+msgid "Shipment Weight(G)"
+msgstr ""
+
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:373
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:385
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:398
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:408
+msgid "Billing Ref 1"
+msgstr ""
+
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:374
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:386
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:399
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:409
+msgid "Billing Ref 2"
+msgstr ""
+
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:375
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:387
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:400
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:410
+msgid "Shipment Insurance"
+msgstr ""
+
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:389
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:402
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:412
+msgid "Remove"
+msgstr ""
+
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:416
+msgid "Add Row"
+msgstr ""
+
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:429
+msgid "Shipment Details"
+msgstr ""
+
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:435
+msgid "Shipment Weight (GM)"
+msgstr ""
+
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:443
+msgid "Currency"
+msgstr ""
+
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:451
+msgid "Package Description"
+msgstr ""
+
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:459
+msgid "Remarks"
+msgstr ""
+
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:467
+msgid "Handover Method"
+msgstr ""
+
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:470
+msgid "Drop off"
+msgstr ""
+
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:471
+msgid "Pickup"
+msgstr ""
+
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:479
+msgid "Pickup Date"
+msgstr ""
+
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:493
+msgid "Shipper Address"
+msgstr ""
+
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:507
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:645
+msgid "Name"
+msgstr ""
+
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:604
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:630
+msgid "Return Address"
+msgstr ""
+
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:610
+msgid "Return Mode"
+msgstr ""
+
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:612
+msgid "Return to Registered Address"
+msgstr ""
+
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:613
+msgid "Return to Pickup Address"
+msgstr ""
+
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:614
+msgid "Return to New Address"
+msgstr ""
+
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:615
+msgid "Abandon"
+msgstr ""
+
+#: includes/shippinglabel/class-dhl-apac-shippinglabel.php:637
+msgid "CompanyName"
+msgstr ""
+
+#: includes/shippinglabel/createlable/class-dhl-apac-createlabel.php:87
+msgid "DHL Label"
+msgstr ""
